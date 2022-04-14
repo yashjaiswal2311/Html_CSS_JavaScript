@@ -1,0 +1,22 @@
+table,td,th{
+
+    border:2px solid grey;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+table{
+    border-collapse: collapse;
+    width: 80%
+}
+th{
+    background-color: skyblue;
+    padding: 10px;
+}
+td{
+    background-color: white;
+    padding: 10px;
+}
+body{
+    background-color: yellowgreen;
+}

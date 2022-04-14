@@ -1,0 +1,30 @@
+body{
+    background-image: url("./form-background-1024x683.jpg");
+    background-attachment: fixed;
+}
+
+form {
+    color: white;
+    font-size: 22px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 35%;
+    margin-top: 100px;
+  }
+  .form2{
+    margin-left: 50px;
+    border-radius: 5px;
+    padding: 4px;
+    color: azure;
+  }
+  #btn1{
+    margin-left: 42%;
+  }
+  #btn2{
+    margin-left: 40px;
+  }
+  #btn1, #btn2{
+      margin-top: 20px;
+      padding: 9px;
+      border-radius: 5px;
+  }
+  

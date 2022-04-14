@@ -1,0 +1,10 @@
+body{
+    background-color: burlywood;
+    color: darkblue;
+}
+table{
+    border-radius: 2px;
+}
+td,th{
+    border: teal solid 2px;
+}
